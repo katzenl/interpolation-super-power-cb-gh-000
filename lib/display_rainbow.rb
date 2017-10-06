@@ -5,5 +5,5 @@ def display_rainbow(colors)
     print(", #{colors[i][0].upcase}: #{colors[i]}")
   end
 end
-    
+
     
